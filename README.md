@@ -4,7 +4,6 @@
 - 👨‍💻 A front-end engineer
 - 🤗 Vue Enthusiast
 - 🧠 A constant learner
-- 🥑 Vimer
 - 📫 Email me at: [18852957273@163.com](mailto:18852957273@163.com)
 
 <!---
