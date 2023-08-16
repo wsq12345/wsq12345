@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 😎 A 24 years old boy
-- 👨‍💻 A front-end engineer
+- 😎 A 26 years old boy
+- 👨‍💻 A C# engineer
 - 🤗 Vue Enthusiast
 - 🧠 A constant learner
 - 📫 Email me at: [18852957273@163.com](mailto:18852957273@163.com)
